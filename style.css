@@ -44,9 +44,14 @@
 }
 
 .feature-island-main-block img {
-
+    margin-top: 10px;
 }
 
 .fi-main-block__title {
     font-size: 2.5rem;
+}
+
+
+.premium-content__label__text {
+    margin-left: 0px;
 }
